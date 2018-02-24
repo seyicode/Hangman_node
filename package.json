@@ -1,0 +1,25 @@
+{
+  "name": "hangman_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyicode/Hangman_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyicode/Hangman_node/issues"
+  },
+  "homepage": "https://github.com/seyicode/Hangman_node#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0",
+    "requirer": "0.0.4"
+  }
+}
